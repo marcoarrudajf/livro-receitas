@@ -1,0 +1,20 @@
+body{
+    background-color: #e6f065
+}
+.context{
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 5px 3px 5px;
+    margin: 0 auto;
+    background-color: #fff;
+
+}
+.tit{
+    font-size: 2em;
+    padding-top: 10px;
+    text-align: center;
+    color: #3366ff;
+}
+.art{
+    padding: 10px 5px 10px;
+}
