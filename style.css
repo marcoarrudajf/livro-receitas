@@ -1,5 +1,5 @@
 body{
-    background-color: #e6f065
+    background-color: #fa7901c4
 }
 .context{
     width: 400px;
@@ -16,5 +16,6 @@ body{
     color: #3366ff;
 }
 .art{
-    padding: 10px 5px 10px;
+    padding: 0 20px 5px 5px;
+    text-align: justify;
 }
